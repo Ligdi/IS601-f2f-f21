@@ -1,1 +1,2 @@
-# IS601-f2f-f21
+# Hello IS601
+## Introduction to GIT source code
